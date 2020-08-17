@@ -1,5 +1,5 @@
 #Asks for user input
-print("How many cables should I remove?")
+print("How many cabl1es should I remove?")
 cables = int(input())
 
 #Declare variable
